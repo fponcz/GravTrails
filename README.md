@@ -1,6 +1,6 @@
 # GravTrails Engine
 
-GravTrails Engine is a real-time interactive 2D gravity simulation written in C++ using SDL2. It visualizes orbital motion with trails.
+GravTrails Engine is a real-time interactive 2D gravity simulation app written in C++ using SDL2. It visualizes orbital motion with trails.
 
 You can explore both single-star and binary-star systems, tweak parameters like mass and time scale, and generate new random planetary systems.
 
