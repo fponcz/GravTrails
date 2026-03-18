@@ -8,10 +8,9 @@ You can explore both single-star and binary-star systems, tweak parameters like 
 
 ## Screenshots
 
-<p align="center">
-  <img src="Screenshot1.PNG" width="45%" />
-  <img src="Screenshot2.PNG" width="45%" />
-</p>
+![Simulation 1](Screenshot1.PNG)
+
+![Simulation 2](Screenshot2.PNG)
 
 ---
 
